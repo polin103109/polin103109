@@ -10,6 +10,11 @@
 -->
 
 ![Header](https://capsule-render.vercel.app/api?type=wave&color=0:0d1117,100:0d1117&height=250&section=header&text=Hi,%20I'm%20Sabrina%20Sharmin&fontSize=60&fontColor=f97316&desc=Software%20Engineer%20%20@%20Ollyo%20·%200&descAlignY=65&animation=fadeIn)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jost&size=35&color=F97316&center=true&vCenter=true&width=600&height=70&lines=Software+Engineer+II+%40+Ollyo;Building+Growfund+%26+EasyStore;TypeScript+%7C+React+%7C+PHP)](https://git.io/typing-svg)
+
+</div>
 
 ### Projects🐝
 
