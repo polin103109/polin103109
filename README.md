@@ -27,13 +27,6 @@ Now active on GitHub — [Growfund](https://github.com/polin103109/Growfund) is 
 
 <br>
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=polin103109&show_icons=true&theme=dark&title_color=f97316&icon_color=f97316&text_color=ffffff&bg_color=0d1117&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polin103109&layout=compact&theme=dark&title_color=f97316&text_color=ffffff&bg_color=0d1117&hide_border=true"/>
-
-</div>
-
 ### Tech
 
 <div align="center">
