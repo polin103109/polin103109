@@ -9,10 +9,10 @@
   4. It will automatically appear at the top of your GitHub profile page
 -->
 
-![Header](https://capsule-render.vercel.app/api?type=wave&color=0:0d1117,100:0d1117&height=250&section=header&text=Hi,%20I'm%20Sabrina%20Sharmin&fontSize=60&fontColor=f97316&desc=Software%20Engineer%20%20@%20Ollyo%20·%200&descAlignY=65&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=wave&height=250&section=header&text=Hi,%20I'm%20Sabrina%20Sharmin&fontSize=60&fontColor=f97316&desc=Software%20Engineer%20%20@%20Ollyo%20·%200&descAlignY=65&animation=fadeIn)
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jost&size=50&color=F97316&center=true&vCenter=true&width=800&height=100&lines=%3CHello%2C+World!%2F%3E;%3C%E0%A6%95%E0%A6%BF%E0%A6%B0%E0%A7%87%2C+%E0%A6%AA%E0%A7%83%E0%A6%A5%E0%A6%BF%E0%A6%B4%E0%A6%BF!%2F%3E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jost&size=92&color=000000&center=true&vCenter=true&width=1000&height=160&lines=%3CHello%2C+World!%2F%3E;%3C%E0%A6%95%E0%A6%BF%E0%A6%B0%E0%A7%87%2C+%E0%A6%AA%E0%A7%83%E0%A6%A5%E0%A6%BF%E0%A6%AC%E0%A7%80!%2F%3E)](https://git.io/typing-svg)
 
 </div>
 ### Projects🐝
