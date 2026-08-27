@@ -19,13 +19,9 @@ Now active on GitHub — [Growfund](https://github.com/polin103109/Growfund) is 
 - Offers flexible fundraiser payout architectures
 - Features responsive UI components and virtualized performant lists
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=polin103109&repo=Growfund&theme=dark&title_color=f97316&text_color=ffffff&bg_color=0d1117)](https://github.com/polin103109/Growfund)
-
-👉 [Check out Growfund](https://github.com/polin103109/Growfund) to see where it's heading.
-
 ---
 
-**Software Engineer II at [Ollyo](https://ollyo.com)**. Contributor to Growfund and EasyStore. Crafting high-performance web applications & responsive tools. Patira, Dhaka - 1229, Bangladesh.
+**Software Engineer at [Ollyo](https://ollyo.com)**. Contributor to Growfund and EasyStore. Crafting high-performance web applications & responsive tools. Patira, Dhaka - 1229, Bangladesh.
 
 💼 [linkedin.com/in/sabrina-sharmin-937a441a7](https://linkedin.com/in/sabrina-sharmin-937a441a7)
 
@@ -48,6 +44,6 @@ Now active on GitHub — [Growfund](https://github.com/polin103109/Growfund) is 
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,php,wordpress,redux,tailwind,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,docker,kubernetes,php,aws,tailwind,mysql)](https://skillicons.dev)
 
 </div>
