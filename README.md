@@ -34,12 +34,6 @@ Now active on GitHub — [Growfund](https://github.com/polin103109/Growfund) is 
 
 </div>
 
-<div align="center">
-
-![Streak Stats](https://streak-stats.demolab.com?user=polin103109&theme=dark&hide_border=true&ring=f97316&fire=f97316&currStreakLabel=f97316&background=0d1117)
-
-</div>
-
 ### Tech
 
 <div align="center">
