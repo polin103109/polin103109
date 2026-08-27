@@ -9,11 +9,12 @@
   4. It will automatically appear at the top of your GitHub profile page
 -->
 
-![Header](https://capsule-render.vercel.app/api?type=wave&color=0:0d1117,100:0d1117&height=250&section=header&text=Hi,%20I'm%20Sabrina%20Sharmin&fontSize=60&fontColor=f97316&desc=Software%20Engineer%20II%20@%20Ollyo%20·%20building%20Growfund&descAlign=50&descAlignY=65&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=wave&color=0:0d1117,100:0d1117&height=250&section=header&text=Hi,%20I'm%20Sabrina%20Sharmin&fontSize=60&fontColor=f97316&desc=Software%20Engineer%20%20@%20Ollyo%20·%20building%20Growfund&descAlign=50&descAlignY=65&animation=fadeIn)
 
-### my projects are growing fast 🐝
+### Projects🐝
 
-Now active on GitHub — [Growfund](https://github.com/polin103109/Growfund) is a powerful WordPress plugin for crowdfunding and campaign management. It:
+Now active on GitHub — 
+[Growfund](https://github.com/polin103109/Growfund) is a powerful WordPress plugin for crowdfunding and campaign management. It:
 
 - Enables seamless manual page generation and reward item management
 - Offers flexible fundraiser payout architectures
