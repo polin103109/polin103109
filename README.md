@@ -1,18 +1,10 @@
-# Hi, I'm Polin 👋
+<div align="center">
 
-Software Engineer based in Dhaka, Bangladesh.
+<img src="./hello-world.gif" alt="Hello World">
 
-### 👩‍💻 About Me
+<br>
 
-* 💻 Software Engineer
-* 🌐 Interested in Web Development & Open Source
-* 🚀 Currently building and learning new things
+Software Engineer · Web Developer
 
-### 🛠️ Tech Stack
-
-`JavaScript` `TypeScript` `React` `PHP` `Joomla` `WordPress` `Git`
-
-### 📫 Connect with me
-
-[GitHub](https://github.com/polin103109)
+</div>
 
